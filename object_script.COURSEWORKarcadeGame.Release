@@ -1,0 +1,15 @@
+release/controlscene2.o
+release/creditsscene3.o
+release/gamescene4.o
+release/main.o
+release/mainscene1.o
+release/mainwindow.o
+release/spritePerson.o
+release/qrc_resurces.o
+release/moc_controlscene2.o
+release/moc_creditsscene3.o
+release/moc_gamescene4.o
+release/moc_mainscene1.o
+release/moc_mainwindow.o
+release/moc_spritelet1.o
+release/moc_spriteperson.o

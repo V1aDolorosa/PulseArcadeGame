@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>MainWindow</class>
+ <widget class="QMainWindow" name="MainWindow">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>713</width>
+    <height>1020</height>
+   </rect>
+  </property>
+  <property name="minimumSize">
+   <size>
+    <width>713</width>
+    <height>1020</height>
+   </size>
+  </property>
+  <property name="maximumSize">
+   <size>
+    <width>16777215</width>
+    <height>16777215</height>
+   </size>
+  </property>
+  <property name="windowTitle">
+   <string>MainWindow</string>
+  </property>
+  <property name="styleSheet">
+   <string notr="true"/>
+  </property>
+  <widget class="QWidget" name="centralwidget">
+   <property name="styleSheet">
+    <string notr="true"/>
+   </property>
+   <widget class="QWidget" name="widget" native="true">
+    <property name="geometry">
+     <rect>
+      <x>0</x>
+      <y>10</y>
+      <width>711</width>
+      <height>1011</height>
+     </rect>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">background-image: url(:/images/Pulse/machine1.png);</string>
+    </property>
+    <widget class="QPushButton" name="Button1">
+     <property name="geometry">
+      <rect>
+       <x>400</x>
+       <y>820</y>
+       <width>71</width>
+       <height>41</height>
+      </rect>
+     </property>
+     <property name="styleSheet">
+      <string notr="true">background-image: url(:/images/Pulse/button12.png);
+background-color: rgb(13, 12, 15);</string>
+     </property>
+     <property name="text">
+      <string/>
+     </property>
+    </widget>
+    <widget class="QPushButton" name="Button2">
+     <property name="geometry">
+      <rect>
+       <x>480</x>
+       <y>820</y>
+       <width>71</width>
+       <height>41</height>
+      </rect>
+     </property>
+     <property name="styleSheet">
+      <string notr="true">background-image: url(:/images/Pulse/button12.png);
+background-color: rgb(13, 12, 15);
+</string>
+     </property>
+     <property name="text">
+      <string/>
+     </property>
+    </widget>
+    <widget class="QGraphicsView" name="graphicsView">
+     <property name="geometry">
+      <rect>
+       <x>130</x>
+       <y>400</y>
+       <width>461</width>
+       <height>341</height>
+      </rect>
+     </property>
+     <property name="whatsThis">
+      <string>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;scene1 : Начать игру , управление ,титры, выйти из игры.&lt;/p&gt;&lt;p&gt;scene 2 : Game&lt;/p&gt;&lt;p&gt;scene 3 : Управление (изменить ,добавить окно с музыкой (вкл/выкл ,громкость , смена трека) и управление&lt;/p&gt;&lt;p&gt;scene 4 : титры(изменить чтобы первым появлялось изображение названия игры и титры не шли с момента сборки)&lt;/p&gt;&lt;p&gt;ИЗМЕНИТЬ ЗАГОЛОВОЧНУЮ ПАНЕЛЬ&lt;br/&gt;&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</string>
+     </property>
+     <property name="styleSheet">
+      <string notr="true">background-image: url(:/images/Pulse/nope.png);
+</string>
+     </property>
+    </widget>
+   </widget>
+  </widget>
+ </widget>
+ <resources/>
+ <connections/>
+</ui>

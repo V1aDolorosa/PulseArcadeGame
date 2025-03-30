@@ -1,0 +1,15 @@
+debug/controlscene2.o
+debug/creditsscene3.o
+debug/gamescene4.o
+debug/main.o
+debug/mainscene1.o
+debug/mainwindow.o
+debug/spritePerson.o
+debug/qrc_resurces.o
+debug/moc_controlscene2.o
+debug/moc_creditsscene3.o
+debug/moc_gamescene4.o
+debug/moc_mainscene1.o
+debug/moc_mainwindow.o
+debug/moc_spritelet1.o
+debug/moc_spriteperson.o
