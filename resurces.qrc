@@ -1,0 +1,31 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>Pulse/close.png</file>
+        <file>Pulse/machine1.png</file>
+        <file>Pulse/minimize.png</file>
+        <file>Pulse/nope.png</file>
+        <file>Pulse/button12.png</file>
+        <file>Pulse/buttonFon.png</file>
+        <file>Pulse/mainfon1(1).png</file>
+        <file>Pulse/creditscene3(3).png</file>
+        <file>sprites/run.png</file>
+        <file>sprites/spriteLet(1).png</file>
+        <file>Pulse/BiGgamefon(1).png</file>
+        <file>Pulse/girl-Photoroom.png</file>
+        <file>xp/xp0.png</file>
+        <file>xp/xp1.png</file>
+        <file>xp/xp2.png</file>
+        <file>xp/xp3.png</file>
+        <file>xp/xp4.png</file>
+        <file>xp/xp5.png</file>
+        <file>xp/xp6.png</file>
+        <file>speed/speed1.png</file>
+        <file>speed/speed2.png</file>
+        <file>speed/speed3.png</file>
+        <file>speed/speed4.png</file>
+        <file>Pulse/conrolFon(2).png</file>
+        <file>xp/shield.png</file>
+        <file>xp/shield2.png</file>
+        <file>xp/shield3.png</file>
+    </qresource>
+</RCC>
